@@ -1,0 +1,26 @@
+@media only screen and (max-width: 1090px){
+  .back{
+  display: none !important;
+  }
+  .dis1{
+    width: 74.6%;
+    height: 500px;
+  }
+  .cn {
+    width: 100%;
+    height: 100px;
+    background-color: #fff;
+    margin-top: 6px;
+    display: flow-root;
+}
+.in h2{
+  width: 321px;
+}
+
+}
+
+@media only screen and (max-width: 712px){
+.adm {
+  width: 711px !important;
+}
+}
